@@ -1,9 +1,8 @@
 # name
 
 ## what it does
-performs keystrokes from csv and captures screen
+performs keystrokes from csv and captures screen. example below:
 
-example:
 ![Alt Text](https://github.com/Michael-Strohmeier/yes/blob/main/out.gif)
 
 * not at all meant for TAS runs or stuff like that just showing direct input and screen / window capturing.
