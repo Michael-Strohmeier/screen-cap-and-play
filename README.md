@@ -3,6 +3,8 @@
 ## what it does
 performs keystrokes from csv and captures screen
 
+![Alt Text](https://github.com/Michael-Strohmeier/yes/blob/main/out.gif)
+
 ## depend
 ```
 pip install opencv-python
