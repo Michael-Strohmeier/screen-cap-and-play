@@ -3,7 +3,9 @@
 ## what it does
 performs keystrokes from csv and captures screen. example below:
 
-https://github.com/Michael-Strohmeier/yes/blob/main/out.mp4
+
+https://user-images.githubusercontent.com/46147963/131219823-99939a3f-4174-484a-a087-aff1aaa12728.mp4
+
 
 * not at all meant for TAS runs or stuff like that just showing direct input and screen / window capturing.
 
