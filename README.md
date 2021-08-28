@@ -3,7 +3,7 @@
 ## what it does
 performs keystrokes from csv and captures screen. example below:
 
-![Alt Text](https://github.com/Michael-Strohmeier/yes/blob/main/out.mp4){loop=""}
+![Alt Text](https://github.com/Michael-Strohmeier/yes/blob/main/out.mp4)
 
 * not at all meant for TAS runs or stuff like that just showing direct input and screen / window capturing.
 
