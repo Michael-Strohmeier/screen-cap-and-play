@@ -41,6 +41,7 @@ if __name__ == "__main__":
 
     images = []
 
+    last_cap_time = 0
     start_time = time.time()
     while i < len(key_strokes):
         dt = time.time() - start_time
@@ -58,8 +59,10 @@ if __name__ == "__main__":
 
         img = Image.fromarray(np.uint8(np_window)).convert('RGB')
 
-
-        images.append(img)
+        if last_cap_time + 0.1 < time.time():
+            print(last_cap_time)
+            last_cap_time = time.time()
+            images.append(img)
 
     flush()
 
